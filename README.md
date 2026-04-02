@@ -2,10 +2,10 @@
 
 I'm [Emir](https://emirow.github.io/my-cv-site/), a junior frontend developer based in Almaty.
 
-I’m learning web development through hands-on practice and personal projects, focusing on building simple, clean, and well-structured interfaces and understanding how modern websites work — from layout and styling to basic JavaScript logic.
+I focus on building clean, responsive user interfaces using HTML, CSS, and JavaScript. I enjoy creating simple and well-structured web projects and improving my understanding of how modern websites work.
 
-Currently, I’m working on small projects to strengthen my foundation in HTML, CSS, JavaScript, and Git.
+Currently, I'm developing small projects to strengthen my skills in JavaScript, DOM manipulation, and Git workflow.
 
-I’m motivated to grow as a frontend developer and gain real-world experience in a team environment.
+My goal is to grow as a frontend developer and gain real-world experience working in a team environment.
 
-Let’s connect.
+Let’s connect!
